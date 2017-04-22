@@ -1,4 +1,4 @@
-## CS50 2016 
+# CS50 2016 
 
 Harvard CS50 is a course I took in 2016 on [EDX.org](https://www.edx.org/) as a challenge. 
 
